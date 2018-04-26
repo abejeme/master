@@ -34,7 +34,7 @@ public class AdminHome {
     @RequestMapping("/customer")
     public String customerManagement(Model model) {
 
-        //to add some customer service later and for Git checkup Abeje Menkir Aychiluhme 
+        //to add some customer service later and for Git checkup Abeje Menkir Aychiluhem and my Mom name is Abuye 
         return "customerManagement";
     }
 }
